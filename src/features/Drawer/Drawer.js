@@ -88,9 +88,9 @@ export default function PersistentDrawerLeft() {
     setOpen(false);
   };
 
-  const updateWhenCountrySelected = (state, setFilterCountry) => {
+  const updateWhenCountrySelected = (state, country, setFilterCountry) => {
     const [filteredDataCountry, _] = filterDataCountry(state, state);
-    const minPeriodNewCountry = minPeriodCountries(filteredDataCountry, filteredData[1]);
+    const minPeriodNewCountry = minPeriodCountries(filteredDataCountry, country);
     if (minPeriodNewCountry > filter.years[0]) {
       dispatch(setFilterYears([minPeriodNewCountry, filter.years[1]]));
     }
@@ -125,7 +125,7 @@ export default function PersistentDrawerLeft() {
     }
 
     setSelectedCountry1((state) => {
-      updateWhenCountrySelected(state, setFilterCountry1);
+      updateWhenCountrySelected(state, filteredData[1], setFilterCountry1);
       return state;
     });
   }
@@ -145,7 +145,7 @@ export default function PersistentDrawerLeft() {
       }
 
       setSelectedCountry2((state) => {
-        updateWhenCountrySelected(state, setFilterCountry2);
+        updateWhenCountrySelected(state, filteredData[0], setFilterCountry2);
         return state;
       });
   };

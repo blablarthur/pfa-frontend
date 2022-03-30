@@ -1,0 +1,289 @@
+[
+  {
+    "Period": 1975,
+    "Obesity Rate(%)": 4.91,
+    "Daily caloric supply(kcal/day/capita)": 2815.18,
+    "Fat supply quantity (g/day/capita)": 83.69,
+    "Protein supply quantity(g/day/capita)": 78.83
+  },
+  {
+    "Period": 1976,
+    "Obesity Rate(%)": 5.08,
+    "Daily caloric supply(kcal/day/capita)": 2813.46,
+    "Fat supply quantity (g/day/capita)": 83.73,
+    "Protein supply quantity(g/day/capita)": 78.7
+  },
+  {
+    "Period": 1977,
+    "Obesity Rate(%)": 5.25,
+    "Daily caloric supply(kcal/day/capita)": 2810.04,
+    "Fat supply quantity (g/day/capita)": 83.23,
+    "Protein supply quantity(g/day/capita)": 78.72
+  },
+  {
+    "Period": 1978,
+    "Obesity Rate(%)": 5.43,
+    "Daily caloric supply(kcal/day/capita)": 2808.57,
+    "Fat supply quantity (g/day/capita)": 83.36,
+    "Protein supply quantity(g/day/capita)": 79.03
+  },
+  {
+    "Period": 1979,
+    "Obesity Rate(%)": 5.62,
+    "Daily caloric supply(kcal/day/capita)": 2797.51,
+    "Fat supply quantity (g/day/capita)": 83.03,
+    "Protein supply quantity(g/day/capita)": 78.48
+  },
+  {
+    "Period": 1980,
+    "Obesity Rate(%)": 5.81,
+    "Daily caloric supply(kcal/day/capita)": 2789.19,
+    "Fat supply quantity (g/day/capita)": 82.86,
+    "Protein supply quantity(g/day/capita)": 78.31
+  },
+  {
+    "Period": 1981,
+    "Obesity Rate(%)": 6.02,
+    "Daily caloric supply(kcal/day/capita)": 2774.81,
+    "Fat supply quantity (g/day/capita)": 82,
+    "Protein supply quantity(g/day/capita)": 77.8
+  },
+  {
+    "Period": 1982,
+    "Obesity Rate(%)": 6.23,
+    "Daily caloric supply(kcal/day/capita)": 2759.47,
+    "Fat supply quantity (g/day/capita)": 81.1,
+    "Protein supply quantity(g/day/capita)": 77.38
+  },
+  {
+    "Period": 1983,
+    "Obesity Rate(%)": 6.46,
+    "Daily caloric supply(kcal/day/capita)": 2747.5,
+    "Fat supply quantity (g/day/capita)": 81,
+    "Protein supply quantity(g/day/capita)": 77
+  },
+  {
+    "Period": 1984,
+    "Obesity Rate(%)": 6.69,
+    "Daily caloric supply(kcal/day/capita)": 2741.81,
+    "Fat supply quantity (g/day/capita)": 80.39,
+    "Protein supply quantity(g/day/capita)": 76.79
+  },
+  {
+    "Period": 1985,
+    "Obesity Rate(%)": 6.92,
+    "Daily caloric supply(kcal/day/capita)": 2723.69,
+    "Fat supply quantity (g/day/capita)": 79.75,
+    "Protein supply quantity(g/day/capita)": 75.84
+  },
+  {
+    "Period": 1986,
+    "Obesity Rate(%)": 7.17,
+    "Daily caloric supply(kcal/day/capita)": 2710.01,
+    "Fat supply quantity (g/day/capita)": 79.08,
+    "Protein supply quantity(g/day/capita)": 75.5
+  },
+  {
+    "Period": 1987,
+    "Obesity Rate(%)": 7.43,
+    "Daily caloric supply(kcal/day/capita)": 2697.42,
+    "Fat supply quantity (g/day/capita)": 78.44,
+    "Protein supply quantity(g/day/capita)": 74.77
+  },
+  {
+    "Period": 1988,
+    "Obesity Rate(%)": 7.69,
+    "Daily caloric supply(kcal/day/capita)": 2682.08,
+    "Fat supply quantity (g/day/capita)": 77.22,
+    "Protein supply quantity(g/day/capita)": 74.59
+  },
+  {
+    "Period": 1989,
+    "Obesity Rate(%)": 7.97,
+    "Daily caloric supply(kcal/day/capita)": 2676.33,
+    "Fat supply quantity (g/day/capita)": 77.31,
+    "Protein supply quantity(g/day/capita)": 74.42
+  },
+  {
+    "Period": 1990,
+    "Obesity Rate(%)": 8.28,
+    "Daily caloric supply(kcal/day/capita)": 2666.63,
+    "Fat supply quantity (g/day/capita)": 76.77,
+    "Protein supply quantity(g/day/capita)": 73.94
+  },
+  {
+    "Period": 1991,
+    "Obesity Rate(%)": 8.57,
+    "Daily caloric supply(kcal/day/capita)": 2652.26,
+    "Fat supply quantity (g/day/capita)": 76.3,
+    "Protein supply quantity(g/day/capita)": 73.53
+  },
+  {
+    "Period": 1992,
+    "Obesity Rate(%)": 9.37,
+    "Daily caloric supply(kcal/day/capita)": 2682.35,
+    "Fat supply quantity (g/day/capita)": 77.65,
+    "Protein supply quantity(g/day/capita)": 75.25
+  },
+  {
+    "Period": 1993,
+    "Obesity Rate(%)": 9.71,
+    "Daily caloric supply(kcal/day/capita)": 2667.18,
+    "Fat supply quantity (g/day/capita)": 77.56,
+    "Protein supply quantity(g/day/capita)": 74.33
+  },
+  {
+    "Period": 1994,
+    "Obesity Rate(%)": 10.01,
+    "Daily caloric supply(kcal/day/capita)": 2651.99,
+    "Fat supply quantity (g/day/capita)": 76.86,
+    "Protein supply quantity(g/day/capita)": 73.66
+  },
+  {
+    "Period": 1995,
+    "Obesity Rate(%)": 10.31,
+    "Daily caloric supply(kcal/day/capita)": 2644.92,
+    "Fat supply quantity (g/day/capita)": 76.07,
+    "Protein supply quantity(g/day/capita)": 73.38
+  },
+  {
+    "Period": 1996,
+    "Obesity Rate(%)": 10.63,
+    "Daily caloric supply(kcal/day/capita)": 2633.28,
+    "Fat supply quantity (g/day/capita)": 75.91,
+    "Protein supply quantity(g/day/capita)": 73.08
+  },
+  {
+    "Period": 1997,
+    "Obesity Rate(%)": 10.96,
+    "Daily caloric supply(kcal/day/capita)": 2623.47,
+    "Fat supply quantity (g/day/capita)": 74.89,
+    "Protein supply quantity(g/day/capita)": 72.7
+  },
+  {
+    "Period": 1998,
+    "Obesity Rate(%)": 11.28,
+    "Daily caloric supply(kcal/day/capita)": 2610.25,
+    "Fat supply quantity (g/day/capita)": 75.08,
+    "Protein supply quantity(g/day/capita)": 72.2
+  },
+  {
+    "Period": 1999,
+    "Obesity Rate(%)": 11.62,
+    "Daily caloric supply(kcal/day/capita)": 2615.4,
+    "Fat supply quantity (g/day/capita)": 75.12,
+    "Protein supply quantity(g/day/capita)": 72.21
+  },
+  {
+    "Period": 2000,
+    "Obesity Rate(%)": 12.02,
+    "Daily caloric supply(kcal/day/capita)": 2623.42,
+    "Fat supply quantity (g/day/capita)": 75.28,
+    "Protein supply quantity(g/day/capita)": 72.39
+  },
+  {
+    "Period": 2001,
+    "Obesity Rate(%)": 12.37,
+    "Daily caloric supply(kcal/day/capita)": 2620.85,
+    "Fat supply quantity (g/day/capita)": 75,
+    "Protein supply quantity(g/day/capita)": 72.27
+  },
+  {
+    "Period": 2002,
+    "Obesity Rate(%)": 12.73,
+    "Daily caloric supply(kcal/day/capita)": 2633.68,
+    "Fat supply quantity (g/day/capita)": 74.4,
+    "Protein supply quantity(g/day/capita)": 72.44
+  },
+  {
+    "Period": 2003,
+    "Obesity Rate(%)": 13.09,
+    "Daily caloric supply(kcal/day/capita)": 2630.99,
+    "Fat supply quantity (g/day/capita)": 73.95,
+    "Protein supply quantity(g/day/capita)": 72.79
+  },
+  {
+    "Period": 2004,
+    "Obesity Rate(%)": 13.46,
+    "Daily caloric supply(kcal/day/capita)": 2617.88,
+    "Fat supply quantity (g/day/capita)": 72.98,
+    "Protein supply quantity(g/day/capita)": 72.52
+  },
+  {
+    "Period": 2005,
+    "Obesity Rate(%)": 13.83,
+    "Daily caloric supply(kcal/day/capita)": 2598.58,
+    "Fat supply quantity (g/day/capita)": 72.22,
+    "Protein supply quantity(g/day/capita)": 71.63
+  },
+  {
+    "Period": 2006,
+    "Obesity Rate(%)": 14.27,
+    "Daily caloric supply(kcal/day/capita)": 2593.28,
+    "Fat supply quantity (g/day/capita)": 72.03,
+    "Protein supply quantity(g/day/capita)": 71.75
+  },
+  {
+    "Period": 2007,
+    "Obesity Rate(%)": 14.65,
+    "Daily caloric supply(kcal/day/capita)": 2573.26,
+    "Fat supply quantity (g/day/capita)": 71.21,
+    "Protein supply quantity(g/day/capita)": 70.94
+  },
+  {
+    "Period": 2008,
+    "Obesity Rate(%)": 15.06,
+    "Daily caloric supply(kcal/day/capita)": 2554,
+    "Fat supply quantity (g/day/capita)": 70.08,
+    "Protein supply quantity(g/day/capita)": 70.35
+  },
+  {
+    "Period": 2009,
+    "Obesity Rate(%)": 15.47,
+    "Daily caloric supply(kcal/day/capita)": 2553.99,
+    "Fat supply quantity (g/day/capita)": 70.41,
+    "Protein supply quantity(g/day/capita)": 70.41
+  },
+  {
+    "Period": 2010,
+    "Obesity Rate(%)": 15.9,
+    "Daily caloric supply(kcal/day/capita)": 2554.22,
+    "Fat supply quantity (g/day/capita)": 69.92,
+    "Protein supply quantity(g/day/capita)": 70.43
+  },
+  {
+    "Period": 2011,
+    "Obesity Rate(%)": 16.34,
+    "Daily caloric supply(kcal/day/capita)": 2551.07,
+    "Fat supply quantity (g/day/capita)": 69.02,
+    "Protein supply quantity(g/day/capita)": 70.3
+  },
+  {
+    "Period": 2012,
+    "Obesity Rate(%)": 16.79,
+    "Daily caloric supply(kcal/day/capita)": 2529.02,
+    "Fat supply quantity (g/day/capita)": 67.81,
+    "Protein supply quantity(g/day/capita)": 69.7
+  },
+  {
+    "Period": 2013,
+    "Obesity Rate(%)": 17.26,
+    "Daily caloric supply(kcal/day/capita)": 2508.33,
+    "Fat supply quantity (g/day/capita)": 66.68,
+    "Protein supply quantity(g/day/capita)": 69.57
+  },
+  {
+    "Period": 2014,
+    "Obesity Rate(%)": 17.77,
+    "Daily caloric supply(kcal/day/capita)": 2483.07,
+    "Fat supply quantity (g/day/capita)": 66,
+    "Protein supply quantity(g/day/capita)": 68.66
+  },
+  {
+    "Period": 2015,
+    "Obesity Rate(%)": 18.27,
+    "Daily caloric supply(kcal/day/capita)": 2471.8,
+    "Fat supply quantity (g/day/capita)": 65.59,
+    "Protein supply quantity(g/day/capita)": 68.37
+  }
+]
